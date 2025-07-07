@@ -22,8 +22,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
----
 
 - 👨‍💻 Software Engineer specialized in web development, process automation, and AI-powered solutions.
 - 🔧 Experienced in backend and frontend development using JavaScript, Python, Node.js, HTML/CSS, and Bootstrap. Skilled in working with databases such as SQL Server, PostgreSQL, and Informix.
