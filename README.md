@@ -67,7 +67,7 @@
 
 ## 📊 My Stats
 
-![Languages](https://quickchart.io/chart?c=%7B%0A%20%20type%3A%20'doughnut'%2C%0A%20%20data%3A%20%7B%0A%20%20%20%20labels%3A%20%5B'Java'%2C'JavaScript'%2C'HTML'%2C'Php'%2C'CSS'%2C'Python'%2C'Sql'%5D%2C%0A%20%20%20%20datasets%3A%20%5B%7B%0A%20%20%20%20%20%20data%3A%20%5B43.45%2C22.66%2C18.62%2C8.8%2C4.8%2C1.31%2C0.33%2C0.03%5D%0A%20%20%20%20%7D%5D%0A%20%20%7D%0A%7D)
+![Languages](https://quickchart.io/chart?c=%7B%0A%20%20type%3A'doughnut'%2C%0A%20%20data%3A%7B%0A%20%20%20%20labels%3A%5B'JavaScript'%2C'HTML'%2C'CSS'%2C'Java'%2C'SQL'%2C'Python'%2C'PHP'%5D%2C%0A%20%20%20%20datasets%3A%5B%7Bdata%3A%5B30%2C25%2C20%2C10%2C10%2C4%2C1%5D%7D%5D%0A%20%20%7D%0A%7D)
 
 
 
