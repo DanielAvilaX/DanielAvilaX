@@ -63,11 +63,9 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-### 📊 My Stats
+### 📊 My most used languages
 
-## 📊 My Stats
-
-![Languages](https://quickchart.io/chart?c=%7B%0A%20%20type%3A'doughnut'%2C%0A%20%20data%3A%7B%0A%20%20%20%20labels%3A%5B'JavaScript'%2C'HTML'%2C'CSS'%2C'Java'%2C'SQL'%2C'Python'%2C'PHP'%5D%2C%0A%20%20%20%20datasets%3A%5B%7Bdata%3A%5B30%2C25%2C20%2C10%2C10%2C4%2C1%5D%7D%5D%0A%20%20%7D%0A%7D)
+![Languages](https://quickchart.io/chart?c=%7B%0A%20%20type%3A'doughnut'%2C%0A%20%20data%3A%7B%0A%20%20%20%20labels%3A%5B'JavaScript'%2C'HTML'%2C'CSS'%2C'Java'%2C'SQL'%2C'Python'%2C'PHP'%5D%2C%0A%20%20%20%20datasets%3A%5B%7Bdata%3A%5B30%2C25%2C20%2C10%2C10%2C4%2C1%5D%7D%5D%0A%20%20%7D%2C%0A%20%20options%3A%7B%0A%20%20%20%20plugins%3A%7B%0A%20%20%20%20%20%20legend%3A%7B%0A%20%20%20%20%20%20%20%20labels%3A%7Bcolor%3A'white'%7D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20tooltip%3A%7Benabled%3Afalse%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)
 
 
 
