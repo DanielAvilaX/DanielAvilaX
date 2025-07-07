@@ -65,9 +65,13 @@
 
 ### 📊 My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null3000&langs_count=8&theme=algolia)
-	
-![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
+![Languages](https://quickchart.io/chart?c={
+  type:'doughnut',
+  data:{
+    labels:['Java','JavaScript','HTML','Processing','CSS','Python','TypeScript','Shell'],
+    datasets:[{data:[43.45,22.66,18.62,8.8,4.8,1.31,0.33,0.03]}]
+  }
+})
 
 
 <h3 align="left">Connect with me:</h3>
