@@ -67,5 +67,5 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: :contentReference[oaicite:0]{index=0}
-- GitHub: :contentReference[oaicite:1]{index=1}
+- LinkedIn: https://www.linkedin.com/in/daniel-santiago-avila-ballen-4a309a2b3/
+- GitHub: https://github.com/DanielAvilaX/
